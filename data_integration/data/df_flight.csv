@@ -1,0 +1,170 @@
+flight_id,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Price Category Code,Terminal,Boarding Area
+0,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Low Fare,Terminal 1,B
+3,Air Canada ,AC,Air Canada ,AC,International,Canada,Other,Terminal 1,B
+5,Air China,CA,Air China,CA,International,Asia,Other,International,G
+7,Air France,AF,Air France,AF,International,Europe,Other,International,A
+9,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Other,International,G
+11,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Low Fare,International,A
+13,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Other,International,A
+16,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Other,International,A
+18,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Other,International,A
+21,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Other,International,G
+23,American Airlines,AA,American Airlines,AA,Domestic,US,Other,Terminal 3,E
+25,American Eagle Airlines,MQ,American Airlines,AA,Domestic,US,Other,Terminal 3,E
+27,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Other,International,A
+29,Atlantic Southeast Airlines,EV,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+31,BelAir Airlines,4T,BelAir Airlines,4T,International,Europe,Other,International,A
+33,British Airways,BA,British Airways,BA,International,Europe,Other,International,A
+35,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Other,International,A
+37,China Airlines,CI,China Airlines,CI,International,Asia,Other,International,A
+39,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+41,EVA Airways,BR,EVA Airways,BR,International,Asia,Other,International,G
+43,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Low Fare,Terminal 1,B
+45,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Other,Terminal 1,C
+47,Horizon Air ,QX,Alaska Airlines,AS,Domestic,US,Other,Terminal 1,B
+49,Icelandair,FI,Icelandair,FI,International,Europe,Other,International,A
+51,Independence Air,DH,Independence Air,DH,Domestic,US,Low Fare,International,A
+53,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Other,International,A
+55,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Other,International,A
+57,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Other,International,A
+59,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Other,International,G
+61,Mesa Airlines,YV,US Airways,US ,Domestic,US,Other,Terminal 1,B
+63,Mexicana Airlines,MX,Mexicana Airlines,MX,International,Mexico,Other,International,G
+65,Midwest Airlines,YX,Midwest Airlines,YX,Domestic,US,Other,Terminal 1,A
+67,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Other,Terminal 1,C
+69,Northwest Airlines,NW,Northwest Airlines,NW,International,Asia,Other,International,A
+71,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Other,International,A
+73,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Other,International,G
+75,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+77,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,Terminal 3,F
+79,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,International,Canada,Other,Terminal 3,F
+81,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Low Fare,Terminal 1,B
+83,TACA,TA,TACA,TA,International,Central America,Other,International,G
+85,US Airways,US ,US Airways,US ,Domestic,US,Other,Terminal 1,A
+87,US Airways,US ,US Airways,US ,Domestic,US,Low Fare,Terminal 1,B
+89,United Airlines,UA,United Airlines,UA,Domestic,US,Other,Terminal 1,B
+91,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Low Fare,Terminal 3,E
+93,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,Terminal 3,F
+96,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Other,International,G
+99,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Other,International,G
+102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Other,Terminal 3,F
+105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Other,International,G
+108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Other,International,G
+111,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Other,International,A
+113,WestJet Airlines,WS,WestJet Airlines,WS,International,Canada,Other,International,A
+148,Boeing Company,,Boeing Company,,Domestic,US,Other,Other,Other
+208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,Terminal 3,E
+271,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Low Fare,Terminal 1,C
+416,Miami Air International,GL,Miami Air International,GL,International,Canada,Other,International,A
+473,ATA Airlines,TZ,ATA Airlines,TZ,International,Canada,Low Fare,International,A
+590,Air Canada Jazz,QK,Air Canada ,AC,International,Canada,Other,Terminal 1,B
+647,Midwest Airlines,YX,Midwest Airlines,YX,Domestic,US,Other,Terminal 1,B
+668,US Airways,US ,US Airways,US ,Domestic,US,Other,Terminal 1,B
+988,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Other,International,A
+1139,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Low Fare,Terminal 3,E
+1163,Ameriflight,A8,Ameriflight,A8,Domestic,US,Other,Other,Other
+1214,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Low Fare,International,A
+1291,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Low Fare,Terminal 1,C
+1363,Air Canada ,AC,Air Canada ,AC,International,Canada,Other,Terminal 3,E
+1365,Air Canada Jazz,QK,Air Canada ,AC,International,Canada,Other,Terminal 3,E
+1373,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Low Fare,Terminal 1,B
+1375,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Other,Terminal 1,B
+1378,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Other,Terminal 1,B
+1421,Midwest Airlines,YX,Midwest Airlines,YX,Domestic,US,Other,Terminal 3,E
+1443,TACA,TA,TACA,TA,International,Central America,Other,International,A
+1451,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,International,G
+1456,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Low Fare,Terminal 3,F
+1595,Xtra Airways,XP,Xtra Airways,XP,Domestic,US,Other,International,A
+1837,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Low Fare,International,A
+1880,Evergreen International Airlines,EZ,Evergreen International Airlines,EZ,International,Asia,Other,Other,Other
+2295,Aeromexico,AM,Aeromexico,AM,International,Mexico,Other,International,A
+2569,JetBlue Airways ,B6,JetBlue Airways ,B6,Domestic,US,Low Fare,International,A
+2676,ExpressJet Airlines,XE,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+2817,Miami Air International,GL,Miami Air International,GL,Domestic,US,Other,International,A
+2949,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Low Fare,Terminal 1,B
+2987,Virgin America,VX,Virgin America,VX,Domestic,US,Low Fare,International,A
+3115,Aer Lingus,EI,Aer Lingus,EI,International,Europe,Other,International,A
+4089,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Low Fare,Terminal 1,B
+4117,Jet Airways,9W,Jet Airways,9W,International,Asia,Other,International,A
+4145,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,International,Canada,Other,International,G
+4221,BelAir Airlines,BBB,BelAir Airlines,BBB,International,Europe,Other,International,A
+4828,Emirates ,EK,Emirates ,EK,International,Middle East,Other,International,G
+4925,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Other,Terminal 1,B
+5080,Mesaba Airlines,XJ,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+5610,Aeromexico,AM,Aeromexico,AM,International,Mexico,Other,International,G
+5726,World Airways,WO,World Airways,WO,International,Europe,Other,International,A
+6132,Midwest Airlines,YX,Midwest Airlines,YX,Domestic,US,Other,Terminal 1,C
+6449,Delta Air Lines,DL,Delta Air Lines,DL,International,Asia,Other,International,A
+6750,Air Berlin,AB,Air Berlin,AB,International,Europe,Other,International,G
+6812,Republic Airlines,RW,Republic Airlines,RW,Domestic,US,Other,Terminal 1,C
+6814,Servisair,,Servisair,,Domestic,US,Low Fare,International,G
+6828,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Low Fare,International,G
+6925,Pacific Aviation,,Pacific Aviation,,International,Europe,Other,International,A
+6947,Swiss International,LX,Swiss International,LX,International,Europe,Other,International,G
+6980,Virgin America,VX,Virgin America,VX,International,Canada,Low Fare,International,A
+7038,LAN Peru,LP,LAN Peru,LP,International,South America,Other,International,A
+7683,Virgin America,VX,Virgin America,VX,International,Mexico,Other,International,A
+7684,Virgin America,VX,Virgin America,VX,International,Mexico,Low Fare,International,A
+7747,Servisair,,Servisair,,Domestic,US,Low Fare,International,A
+8041,American Airlines,AA,American Airlines,AA,Domestic,US,Other,Terminal 2,D
+8116,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Low Fare,International,G
+8133,Virgin America,VX,Virgin America,VX,Domestic,US,Low Fare,Terminal 2,D
+8139,Virgin America,VX,Virgin America,VX,International,Mexico,Low Fare,Terminal 2,D
+8144,Air Berlin,AB,Air Berlin,AB,International,Europe,Other,International,A
+8146,Air Canada ,AC,Air Canada ,AC,International,Canada,Other,International,A
+8148,Air Canada ,AC,Air Canada ,AC,International,Canada,Other,International,G
+8221,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Low Fare,International,A
+8231,United Airlines,UA,United Airlines,UA,Domestic,US,Other,Terminal 3,F
+8305,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Other,International,A
+8795,Servisair,,Servisair,,International,Europe,Low Fare,International,A
+8952,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Other,Terminal 3,F
+8995,Emirates ,EK,Emirates ,EK,International,Middle East,Other,International,A
+9023,SkyWest Airlines,OO,United Airlines,UA,Domestic,US,Other,Terminal 3,F
+9066,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Low Fare,Terminal 3,F
+9485,Swissport USA,,Swissport USA,,International,Europe,Other,International,A
+9536,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Low Fare,International,G
+9637,XL Airways France,SE,XL Airways France,SE,International,Europe,Other,International,A
+9702,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,Terminal 1,B
+9726,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Other,Terminal 1,B
+10065,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,International,Canada,Other,Terminal 1,B
+10340,World Airways,WO,World Airways,WO,Domestic,US,Other,International,A
+10596,Emirates ,EK,Emirates ,EK,International,Middle East,Low Fare,International,A
+10628,SkyWest Airlines,OO,United Airlines - Pre 07/01/2013,UA,International,Canada,Low Fare,International,G
+10809,China Eastern,MU,China Eastern,MU,International,Asia,Other,International,A
+10839,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Other,International,G
+10863,Swissport USA,,Swissport USA,,Domestic,US,Other,International,A
+11017,Air China,CA,Air China,CA,International,Asia,Low Fare,International,G
+11192,SkyWest Airlines,OO,United Airlines,UA,Domestic,US,Other,Terminal 1,B
+11198,SkyWest Airlines,OO,United Airlines,UA,International,Canada,Other,International,G
+11199,SkyWest Airlines,OO,United Airlines,UA,International,Canada,Other,Terminal 1,B
+11201,SkyWest Airlines,OO,United Airlines,UA,International,Canada,Other,Terminal 3,F
+11216,United Airlines,UA,United Airlines,UA,Domestic,US,Other,International,G
+11221,United Airlines,UA,United Airlines,UA,International,Asia,Other,International,G
+11223,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Other,International,G
+11225,United Airlines,UA,United Airlines,UA,International,Canada,Other,Terminal 3,F
+11227,United Airlines,UA,United Airlines,UA,International,Europe,Other,International,G
+11229,United Airlines,UA,United Airlines,UA,International,Mexico,Other,International,G
+11380,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Other,Other,Other
+11390,Compass Airlines,CP,Delta Air Lines,DL,Domestic,US,Other,Terminal 1,C
+11421,Republic Airlines,RW,Republic Airlines,RW,Domestic,US,Other,Terminal 1,B
+11902,United Airlines,UA,United Airlines,UA,Domestic,US,Other,Terminal 3,E
+12011,Swissport USA,,Swissport USA,,International,Asia,Other,International,A
+12153,Aer Lingus,EI,Aer Lingus,EI,International,Europe,Other,International,G
+12920,United Airlines,UA,United Airlines,UA,International,Canada,Other,International,G
+12922,United Airlines,UA,United Airlines,UA,International,Canada,Other,Terminal 3,E
+12931,United Airlines,UA,United Airlines,UA,International,Mexico,Other,Terminal 3,E
+12932,United Airlines,UA,United Airlines,UA,International,Mexico,Other,Terminal 3,F
+12983,Etihad Airways,EY,Etihad Airways,EY,International,Middle East,Other,International,A
+13001,Mesa Airlines,YV,American Airlines,AA,Domestic,US,Other,Terminal 1,B
+13025,Swissport USA,,Swissport USA,,International,Central America,Other,International,A
+13096,China Southern,CZ,China Southern,CZ,International,Asia,Other,International,A
+13258,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Low Fare,International,A
+13573,Compass Airlines,CP,American Airlines,AA,Domestic,US,Other,Terminal 2,D
+13621,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Other,International,G
+13745,US Airways,US ,US Airways,US ,Domestic,US,Other,Terminal 1,C
+14172,"COPA Airlines, Inc.",CM,"COPA Airlines, Inc.",CM,International,Central America,Other,International,G
+14202,JetBlue Airways ,B6,JetBlue Airways ,B6,Domestic,US,Low Fare,International,G
+14289,American Airlines,AA,American Airlines,AA,Domestic,US,Other,Terminal 1,C
+14372,United Airlines,UA,United Airlines,UA,International,Asia,Other,Terminal 3,F
+14524,Air India Limited,AI,Air India Limited,AI,International,Asia,Other,International,G
+14954,SkyWest Airlines,OO,Alaska Airlines,AS,Domestic,US,Other,International,A
